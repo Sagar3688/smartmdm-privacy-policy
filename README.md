@@ -1,0 +1,1 @@
+# smartmdm-privacy-policy
