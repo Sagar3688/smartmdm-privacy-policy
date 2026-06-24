@@ -1,14 +1,14 @@
-# Privacy Policy for SmartMDM
+# Privacy Policy for School Meal Assistant
 
 **Last Updated: June 2026**
 
-Sharvansh Solutions ("we", "our", or "us") operates the SmartMDM mobile application ("App"). This Privacy Policy explains how information is collected, used, stored, and protected when you use SmartMDM.
+Sharvansh Solutions ("we", "our", or "us") operates the School meal Assistant mobile application ("App"). This Privacy Policy explains how information is collected, used, stored, and protected when you use School Meal Assistant.
 
 ## Information We Collect
 
 ### Google Account Information
 
-SmartMDM uses Google Sign-In to authenticate users and provide access to backup and recovery features.
+App uses Google Sign-In to authenticate users and provide access to backup and recovery features.
 
 When signing in, the App may access:
 
@@ -40,7 +40,7 @@ This information is stored locally on the user's device. The App may automatical
 
 The collected information is used to:
 
-- Provide and operate SmartMDM features
+- Provide and operate App features
 - Maintain school and Mid-Day Meal records
 - Generate reports and documents
 - Enable automatic backup and recovery features
@@ -49,7 +49,7 @@ The collected information is used to:
 
 ## Backup and Restore
 
-SmartMDM automatically backs up application data to the user's Google Drive App Data storage to help protect against data loss and support recovery when needed.
+App automatically backs up application data to the user's Google Drive App Data storage to help protect against data loss and support recovery when needed.
 
 Backup files stored in Google Drive are kept within the user's Google Drive App Data area and are not publicly accessible.
 
@@ -57,19 +57,19 @@ The App also provides optional local backup and restore features that allow user
 
 ## Advertising
 
-SmartMDM displays advertisements using Google AdMob.
+App displays advertisements using Google AdMob.
 
 AdMob may collect certain device and usage information to provide, personalize, and improve advertising services. Such information is processed according to Google's own privacy policies.
 
 ## Data Storage and Security
 
-Most SmartMDM data is stored locally on the user's device.
+Most App data is stored locally on the user's device.
 
 We take reasonable measures to protect stored information. However, no method of electronic storage or transmission over the internet can be guaranteed to be completely secure.
 
 ## Data Sharing
 
-SmartMDM does not sell, rent, or trade user information.
+App does not sell, rent, or trade user information.
 
 Information may be processed by trusted third-party services only when necessary to provide core application functionality, including:
 
@@ -79,13 +79,13 @@ Information may be processed by trusted third-party services only when necessary
 
 ## Children's Privacy
 
-SmartMDM is intended for use by teachers, school staff, and authorized educational personnel.
+App is intended for use by teachers, school staff, and authorized educational personnel.
 
 The App is not designed for direct use by children under the age of 13 and does not knowingly collect personal information from children.
 
 ## Third-Party Services
 
-SmartMDM may use the following third-party services:
+App may use the following third-party services:
 
 - Google Sign-In
 - Google Drive
